@@ -1,0 +1,329 @@
+earthquake_id,place,latitude,longitude,magnitude,temperature,humidity,pressure,wind_speed,weather,description
+atti5z8g,"111 km SE of False Pass, Alaska",54.029,-162.444,5.2,9.75,97,1014,10.35,Rain,light rain
+nc75395621,"5 km SSE of Parkfield, CA",35.8585014343262,-120.39933013916,0.34,19.22,56,1011,3.13,Clear,clear sky
+nc75395606,"5 km SSE of Parkfield, CA",35.857666015625,-120.400329589844,1.14,19.22,56,1011,3.13,Clear,clear sky
+aka2026nvgfep,"35 km SE of Denali National Park, Alaska",63.287,-151.282,2.3,6.8,94,1017,3.61,Clouds,overcast clouds
+ci41293807,"24 km N of Ridgecrest, CA",35.8336666666667,-117.6585,0.39,32.3,37,1007,2.09,Clouds,scattered clouds
+nc75395601,"11 km ESE of Gilroy, CA",36.9718322753906,-121.454498291016,2.1,20.46,57,1013,1.32,Clear,clear sky
+ci41293799,"23 km N of Ridgecrest, CA",35.8283333333333,-117.6645,0.65,32.3,37,1007,2.09,Clouds,scattered clouds
+ci41293791,"23 km N of Ridgecrest, CA",35.831,-117.663,1.07,32.3,37,1007,2.09,Clouds,scattered clouds
+ci41293783,"24 km N of Ridgecrest, CA",35.832,-117.6585,0.36,32.3,37,1007,2.09,Clouds,scattered clouds
+ci41293775,"23 km N of Ridgecrest, CA",35.8316666666667,-117.663,0.73,32.3,37,1007,2.09,Clouds,scattered clouds
+nc75395596,"6 km SE of Parkfield, CA",35.8531684875488,-120.39282989502,1.84,19.22,56,1011,3.13,Clear,clear sky
+nc75395591,"6 km SSE of Parkfield, CA",35.8549995422363,-120.39966583252,2.14,19.22,56,1011,3.13,Clear,clear sky
+nc75395586,"10 km NW of The Geysers, CA",38.8313331604004,-122.851165771484,1.09,14.39,51,1012,3.04,Clear,clear sky
+aka2026nvfvcs,"114 km SE of McCarthy, Alaska",60.666,-141.5,1.1,0.22,97,1019,2.81,Snow,light snow
+aka2026nvfugb,"5 km ESE of Sutton-Alpine, Alaska",61.768,-148.669,1.6,10.39,88,1017,1.2,Clouds,overcast clouds
+aka2026nvfjny,"73 km ENE of Ugashik, Alaska",57.664,-156.199,1.6,8.78,82,1019,0.56,Clouds,overcast clouds
+hv75002281,"2 km N of Pāhala, Hawaii",19.2234992980957,-155.480163574219,2.45,21.85,93,1018,3.6,Rain,light rain
+nc75395581,"3 km NNW of The Geysers, CA",38.8026657104492,-122.768836975098,0.48,12.65,59,1013,2.8,Clear,clear sky
+ci41293751,"20 km ENE of Little Lake, CA",36.0213333333333,-117.7135,1.5,26.76,38,1009,2.24,Clouds,scattered clouds
+nc75395576,"11 km ESE of Gilroy, CA",36.9674987792969,-121.451835632324,2.69,20.46,57,1013,1.32,Clear,clear sky
+hv75002271,"4 km SSW of Pāhala, Hawaii",19.1668338775635,-155.496505737305,2.1,24.1,90,1017,4.11,Clouds,broken clouds
+ci41293743,"18 km WSW of Johannesburg, CA",35.302,-117.8175,1.2,22.91,44,1009,4.44,Clouds,scattered clouds
+us7000t0am,"209 km W of Port McNeill, Canada",50.7308,-130.0482,4.0,13.55,91,1019,7.69,Clear,clear sky
+ci41293735,"9 km SE of Oak Hills, CA",34.33,-117.304333333333,1.17,25.97,39,1010,1.71,Clouds,few clouds
+nc75395571,"9 km NW of Redwood Valley, CA",39.3274993896484,-123.263999938965,1.53,8.67,32,1013,1.56,Clear,clear sky
+ci41293727,"18 km WSW of Johannesburg, CA",35.3035,-117.82,1.06,22.91,44,1009,4.44,Clouds,scattered clouds
+pr71523998,"4 km SW of Sabana Grande, Puerto Rico",18.0446666666667,-66.9905,2.0,25.0,86,1017,0.45,Clouds,scattered clouds
+aka2026nvcmky,"16 km W of Cohoe, Alaska",60.389,-151.606,2.2,11.75,78,1017,6.35,Clouds,scattered clouds
+nc75395551,"1 km NNW of The Geysers, CA",38.7900009155273,-122.761497497559,0.34,11.64,59,1013,2.82,Clear,clear sky
+us7000t0ag,"25 km SE of Tambolaka, Indonesia",-9.5899,119.3992,4.4,24.36,63,1014,1.99,Clouds,scattered clouds
+aka2026nvbnaz,"95 km NNW of Yakutat, Alaska",60.308,-140.512,1.5,-8.1,99,1020,0.55,Snow,light snow
+tx2026nsvrfn,"31 km NW of Toyah, Texas",31.522,-104.018,1.6,23.31,73,1014,5.87,Clear,clear sky
+nc75395546,"5 km NNW of Redwood Valley, CA",39.3089981079102,-123.219665527344,1.49,12.42,32,1014,1.68,Clear,clear sky
+pr71523978,"0 km ENE of Guánica, Puerto Rico",17.9731666666667,-66.904,2.76,25.49,86,1017,2.44,Clouds,scattered clouds
+aka2026nuzyqb,"23 km SW of Ester, Alaska",64.672,-148.298,1.2,12.46,92,1014,4.73,Rain,light rain
+ci41293711,"17 km WSW of Johannesburg, CA",35.3163333333333,-117.809666666667,1.06,22.26,44,1009,3.64,Clouds,scattered clouds
+nc75395541,"2 km WSW of Granite Bay, CA",38.7565002441406,-121.182662963867,2.3,25.84,36,1010,1.34,Clear,clear sky
+ci41293703,"3 km NE of San Dimas, CA",34.1296666666667,-117.7835,0.85,26.34,56,1010,1.56,Clouds,few clouds
+tx2026nstrra,"59 km S of Whites City, New Mexico",31.637,-104.414,1.8,22.0,68,1015,6.63,Clouds,few clouds
+tx2026nstpck,"59 km S of Whites City, New Mexico",31.638,-104.413,1.8,22.0,68,1015,6.63,Clouds,few clouds
+ci41293687,"7 km SSW of Redlands, CA",33.9926666666667,-117.204166666667,0.85,25.46,49,1010,0.46,Clear,clear sky
+us7000t0a3,"11 km N of Pichigua, Peru",-14.5779,-71.4358,5.6,4.56,77,1020,1.51,Clear,clear sky
+us7000t09z,"50 km E of Noda, Japan",40.1657,142.4075,4.9,20.01,99,1002,2.39,Clouds,overcast clouds
+aka2026nuygnk,"76 km W of Akhiok, Alaska",56.978,-155.436,2.2,10.41,83,1019,5.32,Clouds,overcast clouds
+ci41293679,"17 km SW of La Quinta, CA",33.5731666666667,-116.452333333333,1.23,29.23,29,1010,4.33,Clear,clear sky
+pr71523953,"1 km S of Guánica, Puerto Rico",17.962,-66.9076666666667,3.17,25.35,85,1017,2.42,Clouds,scattered clouds
+hv75002206,"25 km ESE of Naalehu, Hawaii",18.9978332519531,-155.352005004883,1.7,25.37,77,1014,6.51,Clouds,scattered clouds
+ci41293671,"15 km W of Johannesburg, CA",35.3613333333333,-117.7945,0.81,23.04,43,1009,3.51,Clouds,scattered clouds
+aka2026nuxyrh,"80 km W of Akhiok, Alaska",56.984,-155.49,3.8,10.42,83,1019,5.39,Clouds,overcast clouds
+ci41293663,"9 km S of Idyllwild, CA",33.6571666666667,-116.7075,0.25,23.93,51,1010,1.32,Clouds,few clouds
+aka2026nuxwjd,"19 km NW of Girdwood, Alaska",61.069,-149.419,1.8,7.29,70,1017,0.37,Clouds,overcast clouds
+ci41293655,"11 km NNW of Anza, CA",33.6428333333333,-116.717166666667,1.21,22.25,49,1010,1.16,Clouds,few clouds
+aka2026nuxtcr,"13 km SSW of Tanana, Alaska",65.068,-152.223,1.6,10.74,95,1012,2.95,Clouds,overcast clouds
+us7000t09u,"117 km E of Noda, Japan",40.1338,143.1932,5.0,20.24,99,1002,4.58,Clouds,overcast clouds
+ci41293647,"6 km SSE of Redlands, CA",34.0103333333333,-117.150333333333,0.52,26.86,49,1010,0.89,Clear,clear sky
+ci41293639,"6 km SSE of Redlands, CA",34.0106666666667,-117.154,0.86,26.86,49,1010,0.89,Clear,clear sky
+nc75395531,"11 km WNW of The Geysers, CA",38.8296661376953,-122.867500305176,0.91,15.62,51,1012,3.04,Clear,clear sky
+pr71523943,"2 km NW of Tallaboa, Puerto Rico",18.0135,-66.7343333333333,2.22,24.61,94,1017,2.33,Clouds,broken clouds
+us7000t09r,"18 km WSW of Mabiton, Philippines",12.7846,123.0967,4.8,29.65,71,1010,3.58,Clouds,few clouds
+ci41293631,"6 km SSE of Redlands, CA",34.0096666666667,-117.151833333333,1.18,26.86,49,1010,0.89,Clear,clear sky
+ci41293623,"7 km WSW of Anza, CA",33.5253333333333,-116.737833333333,0.39,23.26,63,1010,0.95,Clouds,few clouds
+aka2026nuwois,"62 km NNE of Petersville, Alaska",63.026,-150.354,1.6,-3.48,99,1017,1.58,Snow,light snow
+nn00921644,"49 km SSW of Rachel, Nevada",37.2096,-115.8639,1.55,27.17,26,1008,1.88,Clear,clear sky
+us7000t09m,"14 km WSW of Mabiton, Philippines",12.7967,123.136,5.2,29.66,70,1010,3.25,Clouds,few clouds
+nc75395526,"7 km NW of The Geysers, CA",38.8241653442383,-122.804000854492,1.02,13.63,49,1013,2.84,Clear,clear sky
+nc75395521,"4 km W of Cobb, CA",38.8253326416016,-122.765830993652,1.08,12.05,46,1013,2.76,Clear,clear sky
+nc75395516,"2 km W of Glen Ellen, CA",38.3665008544922,-122.554664611816,1.44,16.03,56,1012,1.36,Clear,clear sky
+us7000t09h,"48 km NNE of Kon Tum, Vietnam",14.7321,108.227,4.6,25.73,57,1010,3.79,Clouds,overcast clouds
+ci41293599,"7 km WSW of Anza, CA",33.525,-116.736333333333,0.54,23.24,63,1010,0.95,Clouds,few clouds
+ci41293591,"34 km NE of Ensenada, B.C., MX",32.0966666666667,-116.383333333333,1.88,20.36,74,1010,0.47,Clouds,few clouds
+us7000t09g,"191 km N of Tobelo, Indonesia",3.4609,128.0077,4.4,27.76,72,1011,5.21,Clear,clear sky
+hv75002156,"3 km SSW of Pāhala, Hawaii",19.1771659851074,-155.495666503906,2.75,23.48,91,1017,3.99,Clouds,broken clouds
+hv75002151,"3 km SE of Pa‘auilo, Hawaii",20.0121669769287,-155.348007202148,2.34,20.09,91,1016,3.77,Clouds,scattered clouds
+ci41293583,"17 km WSW of Johannesburg, CA",35.312,-117.803,1.27,22.26,44,1009,3.64,Clouds,scattered clouds
+ci41293575,"7 km WSW of Anza, CA",33.5248333333333,-116.738166666667,0.26,23.24,63,1010,0.95,Clouds,few clouds
+ci41293567,"8 km NE of San Jacinto, CA",33.8398333333333,-116.901833333333,0.91,24.57,44,1010,0.45,Clouds,few clouds
+ci41293559,"4 km SSW of Redlands, CA",34.025,-117.194166666667,0.84,27.73,48,1010,0.61,Clear,clear sky
+us7000t097,Mid-Indian Ridge,-14.9372,66.9107,4.8,24.64,71,1019,8.01,Clouds,scattered clouds
+pr71523938,"2 km WSW of Indios, Puerto Rico",17.9853333333333,-66.8398333333333,2.59,25.33,85,1017,1.97,Clouds,scattered clouds
+tx2026nsoujh,"32 km SE of Malaga, New Mexico",31.996,-103.859,1.4,23.57,73,1014,5.46,Clouds,scattered clouds
+ci41293551,"8 km SSE of Malibu Beach, CA",33.9678333333333,-118.657333333333,1.57,21.36,92,1008,1.85,Clouds,overcast clouds
+pr71523928,"6 km S of Jobos, Puerto Rico",17.8936666666667,-66.1566666666667,1.96,26.73,84,1016,5.71,Rain,light rain
+tx2026nsomvs,"28 km WSW of Ackerly, Texas",32.434,-102.004,0.5,21.03,80,1016,3.4,Clouds,broken clouds
+ci41293543,"19 km WSW of Johannesburg, CA",35.3021666666667,-117.8205,0.84,22.91,44,1009,4.44,Clouds,scattered clouds
+ci41293535,"18 km WSW of Johannesburg, CA",35.31,-117.820166666667,2.46,22.91,44,1009,4.44,Clouds,scattered clouds
+ci41293527,"18 km SSW of Searles Valley, CA",35.6176666666667,-117.4765,0.63,32.15,24,1007,2.83,Clouds,few clouds
+tx2026nsoblz,"30 km SSE of Whites City, New Mexico",31.932,-104.23,0.6,23.07,68,1015,4.84,Clouds,scattered clouds
+uw714049242,"15 km E of West Side Highway, Washington",46.1918334960938,-122.721496582031,1.78353226184845,14.0,82,1014,1.46,Clouds,scattered clouds
+ci41293519,"4 km ESE of Vincent, CA",34.4911666666667,-118.0765,1.85,26.31,34,1010,0.89,Clouds,few clouds
+ci41293511,"7 km ESE of Valle Vista, CA",33.7133333333333,-116.824333333333,0.66,26.65,46,1010,0.71,Clouds,few clouds
+tx2026nsnqkz,"11 km SSW of Jal, New Mexico",32.017,-103.243,1.1,23.1,70,1017,4.13,Clear,clear sky
+pr71523913,"2 km SSW of Guánica, Puerto Rico",17.9531666666667,-66.9156666666667,2.18,25.34,85,1017,2.42,Clouds,scattered clouds
+ci41293503,"19 km WSW of Johannesburg, CA",35.3025,-117.820666666667,0.86,22.91,44,1009,4.44,Clouds,scattered clouds
+hv75002101,"18 km SSE of Pāhala, Hawaii",19.0601673126221,-155.386169433594,2.47,25.24,80,1015,5.85,Clouds,scattered clouds
+hv75002096,"12 km ESE of Pāhala, Hawaii",19.1691665649414,-155.367340087891,1.71,25.26,82,1016,4.93,Clouds,broken clouds
+ci41293495,"22 km ESE of Anza, CA",33.4813333333333,-116.450333333333,1.7,28.07,63,1010,4.82,Clear,clear sky
+tx2026nsmgxg,"12 km SW of Jal, New Mexico",32.025,-103.272,1.1,23.08,70,1017,2.68,Clear,clear sky
+nc75395481,"2 km NW of The Geysers, CA",38.7866668701172,-122.773002624512,0.75,13.88,59,1013,2.82,Clear,clear sky
+nc75395471,"7 km NW of The Geysers, CA",38.8185005187988,-122.81583404541,0.44,12.42,51,1012,2.96,Clear,clear sky
+ci41293487,"20 km WNW of Progreso, B.C., MX",32.6445,-115.78,0.79,24.22,63,1008,2.84,Clear,clear sky
+ci41293479,"18 km WSW of Johannesburg, CA",35.3015,-117.818833333333,0.82,22.91,44,1009,4.44,Clouds,scattered clouds
+nm60505943,"3 km N of Strawberry, Arkansas",35.9993333333333,-91.3216666666667,2.22,23.33,96,1017,1.47,Clouds,broken clouds
+pr71523908,"1 km S of Guánica, Puerto Rico",17.9546666666667,-66.911,2.48,25.64,85,1017,2.42,Clouds,scattered clouds
+ci41293471,"16 km E of Little Lake, CA",35.916,-117.732333333333,0.43,23.42,38,1008,2.3,Clouds,scattered clouds
+pr71523893,"3 km S of Maria Antonia, Puerto Rico",17.9471666666667,-66.8838333333333,2.35,25.61,85,1016,3.11,Clouds,scattered clouds
+nc75395456,"2 km WSW of Wilkerson, CA",37.2696647644043,-118.404663085938,1.49,22.61,41,1016,3.04,Clouds,broken clouds
+ci41293463,"17 km WSW of Johannesburg, CA",35.3145,-117.803,1.36,22.26,44,1009,3.64,Clouds,scattered clouds
+nc75395451,"15 km SE of Pinnacles, CA",36.4324989318848,-121.032333374023,1.26,20.47,30,1012,3.34,Clear,clear sky
+ci41293455,"11 km WSW of Niland, CA",33.2156666666667,-115.628,1.05,25.71,61,1007,6.5,Clear,clear sky
+ci41293447,"4 km ENE of Llano, CA",34.5123333333333,-117.746833333333,0.83,27.65,33,1010,4.22,Clouds,few clouds
+us7000t08m,"9 km ESE of Jurm, Afghanistan",36.8385,70.9297,4.2,24.92,26,1009,2.31,Clear,clear sky
+nc75395446,"11 km ESE of Willits, CA",39.3728332519531,-123.231330871582,1.86,11.32,32,1013,1.65,Clear,clear sky
+nc75395441,"13 km WNW of Calistoga, CA",38.6353340148926,-122.705665588379,1.48,17.29,59,1012,2.37,Clear,clear sky
+ci41293439,"5 km S of Redlands, CA",34.0088333333333,-117.176666666667,0.76,27.4,49,1010,0.46,Clear,clear sky
+pr71523888,"3 km WNW of Fuig, Puerto Rico",17.9971666666667,-66.9495,2.66,25.13,87,1017,0.45,Clouds,scattered clouds
+tx2026nsirkh,"54 km W of Mentone, Texas",31.702,-104.169,1.7,22.95,70,1014,5.3,Clouds,scattered clouds
+tx2026nsiljz,"57 km NW of Toyah, Texas",31.627,-104.27,1.6,22.61,69,1015,5.97,Clouds,few clouds
+aka2026nunqyn,"65 km SE of Denali National Park, Alaska",63.132,-150.791,1.9,-1.1,98,1017,1.01,Clouds,overcast clouds
+ci41293431,"20 km N of Searles Valley, CA",35.9496666666667,-117.3905,0.9,19.34,33,1009,1.63,Clouds,scattered clouds
+tx2026nshnds,"42 km NW of Toyah, Texas",31.562,-104.137,1.8,22.82,70,1014,5.89,Clear,clear sky
+ci41293423,"12 km SW of Searles Valley, CA",35.7008333333333,-117.502,0.74,31.91,24,1007,2.26,Clouds,few clouds
+nc75395421,"3 km ESE of The Geysers, CA",38.7675018310547,-122.728668212891,0.79,11.46,59,1012,2.73,Clear,clear sky
+ci41293415,"10 km NW of Anza, CA",33.6213340759277,-116.745666503906,1.21214365967078,24.5,49,1010,0.74,Clouds,few clouds
+ci41293407,"17 km N of Indio, CA",33.8736666666667,-116.2055,1.11,32.96,26,1009,2.74,Clouds,scattered clouds
+nc75395411,"7 km NW of The Geysers, CA",38.8154983520508,-122.81600189209,1.07,12.42,51,1012,2.96,Clear,clear sky
+nc75395391,"7 km NW of The Geysers, CA",38.8129997253418,-122.817337036133,0.75,13.26,51,1012,2.96,Clear,clear sky
+us7000t085,"34 km SE of Sarangani, Philippines",5.1842,125.6791,4.6,28.59,71,1011,6.45,Clouds,scattered clouds
+us7000t083,southeast of the Loyalty Islands,-22.7425,171.4439,4.9,21.18,73,1020,11.18,Clouds,few clouds
+ci41293391,"15 km NE of Little Lake, CA",36.018,-117.769,0.87,20.08,39,1009,2.4,Clouds,scattered clouds
+us7000t07s,"2 km WSW of Congregación Reforma, Mexico",14.7717,-92.3316,5.0,26.2,93,1012,3.46,Clouds,overcast clouds
+tx2026nsfgfx,"10 km S of Ackerly, Texas",32.434,-101.714,0.7,21.17,81,1015,4.22,Clouds,overcast clouds
+hv75002021,"16 km SE of Fern Forest, Hawaii",19.3595008850098,-155.031997680664,2.67,21.68,80,1015,3.46,Clouds,few clouds
+aka2026nuknam,"32 km NNE of Petersville, Alaska",62.76,-150.499,1.6,3.77,98,1017,0.62,Rain,light rain
+us7000t07r,"6 km NW of San Rafael, Philippines",13.1309,122.9157,4.6,29.6,71,1010,4.57,Clouds,few clouds
+nc75395381,"2 km WNW of The Geysers, CA",38.7831649780273,-122.779167175293,0.28,13.96,59,1012,2.91,Clear,clear sky
+nc75395376,"9 km SE of Cloverdale, CA",38.7546653747559,-122.930000305176,1.13,16.78,60,1012,2.9,Clear,clear sky
+ci41293375,"2 km W of Orange, CA",33.8036666666667,-117.856333333333,1.45,22.94,75,1009,0.89,Clouds,few clouds
+nc75395356,"13 km ENE of Cloverdale, CA",38.8424987792969,-122.880332946777,1.02,15.29,51,1012,3.07,Clear,clear sky
+ci41293359,"0 km E of Loma Linda, CA",34.0483333333333,-117.2565,1.18,28.12,48,1010,0.38,Clear,clear sky
+tx2026nsczdp,"40 km WSW of Ackerly, Texas",32.383,-102.109,0.1,21.18,80,1016,3.23,Clouds,broken clouds
+av93064049,"8 km E of Unalaska, Alaska",53.8675,-166.4125,0.75,6.88,96,1012,2.97,Rain,light rain
+pr71523878,"2 km SE of Boquerón, Puerto Rico",18.0065,-67.1533333333333,2.15,26.14,85,1018,2.68,Clouds,scattered clouds
+tx2026nscgby,"16 km NNW of Toyah, Texas",31.453,-103.867,1.8,23.63,73,1014,5.46,Clear,clear sky
+nc75395346,"7 km WNW of Cobb, CA",38.8381652832031,-122.800498962402,0.88,11.55,49,1013,2.84,Clear,clear sky
+nc75395341,"7 km NW of The Geysers, CA",38.8144989013672,-122.8193359375,1.61,13.26,51,1012,2.96,Clear,clear sky
+nc75395331,"8 km WNW of Cobb, CA",38.8371658325195,-122.813835144043,0.45,11.82,50,1013,2.92,Clear,clear sky
+ci41293327,"5 km NNW of Boron, CA",35.0431666666667,-117.6695,1.7,21.78,47,1010,4.69,Clouds,scattered clouds
+nc75395326,"8 km WNW of Cobb, CA",38.8371658325195,-122.811836242676,0.88,11.82,50,1013,2.92,Clear,clear sky
+ci41293303,"3 km E of Running Springs, CA",34.2093333333333,-117.075,0.62,18.79,44,1010,2.09,Clear,clear sky
+aka2026nugnky,"25 km N of Fishhook, Alaska",61.972,-149.178,2.7,3.76,95,1018,1.48,Clouds,overcast clouds
+aka2026nuggtl,"4 km E of Fox, Alaska",64.953,-147.528,0.9,9.8,79,1013,4.05,Rain,light rain
+pr71523868,"6 km S of Guánica, Puerto Rico",17.9098333333333,-66.9088333333333,1.46,26.23,81,1016,3.86,Clouds,scattered clouds
+ci41293279,"19 km W of Searles Valley, CA",35.7826666666667,-117.612,0.47,32.42,24,1007,2.09,Clouds,scattered clouds
+aka2026nugcox,"7 km WSW of Chickaloon, Alaska",61.78,-148.605,1.2,9.58,88,1017,1.38,Clouds,overcast clouds
+ci41293255,"18 km WSW of Johannesburg, CA",35.3145,-117.818,1.06,22.91,44,1009,4.44,Clouds,scattered clouds
+ci41293247,"17 km WSW of Johannesburg, CA",35.3166666666667,-117.813666666667,2.25,22.26,44,1009,3.64,Clouds,scattered clouds
+nc75395311,"5 km WNW of Cobb, CA",38.8375015258789,-122.783164978027,0.7,12.1,49,1013,2.84,Clear,clear sky
+aka2026nufgcf,"10 km E of Healy, Alaska",63.842,-148.76,1.1,4.51,95,1016,2.79,Rain,light rain
+nc75395296,"7 km NW of The Geysers, CA",38.8203315734863,-122.813667297363,0.77,12.63,51,1012,2.96,Clear,clear sky
+ci41293207,"7 km E of Calimesa, CA",33.9973333333333,-116.973166666667,0.7,24.21,48,1011,0.45,Clear,clear sky
+ci41293199,"7 km E of Calimesa, CA",33.9971666666667,-116.976333333333,1.08,24.21,48,1011,0.45,Clear,clear sky
+tx2026nrzcyg,"38 km NW of Toyah, Texas",31.588,-104.05,1.2,23.1,73,1014,5.71,Clear,clear sky
+ci41293191,"17 km WSW of Johannesburg, CA",35.3225,-117.815333333333,1.19,23.18,44,1009,4.43,Clouds,scattered clouds
+us7000t06z,Greenland Sea,73.7141,7.8819,4.4,8.42,99,1001,4.27,Clouds,overcast clouds
+aka2026nueaik,"17 km NE of Karluk, Alaska",57.671,-154.223,1.6,10.75,81,1019,5.19,Clouds,overcast clouds
+aka2026nudvkh,"70 km WSW of Karluk, Alaska",57.223,-155.433,2.1,10.47,83,1019,5.42,Clouds,overcast clouds
+pr71523848,"3 km S of Guánica, Puerto Rico",17.9378333333333,-66.9141666666667,2.29,25.68,85,1017,3.08,Clouds,scattered clouds
+av93064039,"6 km W of Dutch Harbor, Alaska",53.8956666666667,-166.644,0.22,9.34,97,1012,2.7,Rain,light rain
+av93064034,"87 km NNW of Karluk, Alaska",58.3001666666667,-154.977,-0.19,2.85,80,1018,0.84,Clouds,overcast clouds
+aka2026nudqtv,"107 km WNW of Yakutat, Alaska",59.986,-141.425,1.4,10.01,94,1020,2.4,Clouds,overcast clouds
+pr71523858,"6 km S of Guánica, Puerto Rico",17.9111666666667,-66.909,2.2,26.23,81,1016,3.86,Clouds,scattered clouds
+pr71523833,"4 km S of Guánica, Puerto Rico",17.9288333333333,-66.9151666666667,2.69,26.18,81,1017,3.08,Clouds,scattered clouds
+hv75001851,"4 km SW of Pāhala, Hawaii",19.1695,-155.505,2.28,24.1,90,1017,4.11,Clouds,broken clouds
+us7000t06l,Greenland Sea,73.6953,8.2919,4.3,8.46,99,1001,4.69,Clouds,overcast clouds
+pr71523823,"2 km SSW of Guánica, Puerto Rico",17.9495,-66.9155,1.63,25.34,85,1017,2.42,Clouds,scattered clouds
+ci41293167,"18 km WSW of Johannesburg, CA",35.315,-117.815166666667,1.07,22.91,44,1009,4.44,Clouds,scattered clouds
+ci41293159,"16 km WSW of Johannesburg, CA",35.316,-117.801166666667,0.8,22.26,44,1009,3.64,Clouds,scattered clouds
+nc75395266,"9 km SE of Cloverdale, CA",38.7551651000977,-122.929496765137,1.5,16.78,60,1012,2.9,Clear,clear sky
+nc75395261,"9 km SSE of Cloverdale, CA",38.7386665344238,-122.967666625977,1.81,17.43,60,1012,2.66,Clear,clear sky
+us7000t06f,"145 km NNE of Sorong, Indonesia",0.3702,131.6675,4.5,28.56,69,1011,5.7,Clouds,scattered clouds
+us7000t06d,southeast of the Loyalty Islands,-22.9464,171.5098,5.0,21.25,71,1020,10.9,Clear,clear sky
+av93064029,"75 km WSW of False Pass, Alaska",54.548,-164.449166666667,0.96,8.54,99,1012,2.47,Rain,light rain
+pr71523818,"1 km SSW of Guánica, Puerto Rico",17.9576666666667,-66.917,1.76,25.52,85,1017,2.42,Clouds,scattered clouds
+tx2026nrwsar,"57 km S of Whites City, New Mexico",31.656,-104.367,1.6,22.49,68,1015,6.26,Clouds,few clouds
+ci41293111,"17 km WSW of Johannesburg, CA",35.3165,-117.808,1.03,22.26,44,1009,3.64,Clouds,scattered clouds
+aka2026nubpcw,"3 km NNW of Farmers Loop, Alaska",64.94,-147.736,1.3,11.13,82,1013,4.11,Rain,light rain
+nc75395251,"6 km WNW of The Geysers, CA",38.7998352050781,-122.814163208008,0.43,15.17,59,1012,2.96,Clear,clear sky
+nc75395246,"3 km NW of The Geysers, CA",38.7948341369629,-122.781669616699,0.32,13.68,59,1012,2.91,Clear,clear sky
+ci41293079,"19 km NNE of Indio, CA",33.8845,-116.171,0.7,31.8,25,1009,2.25,Clouds,scattered clouds
+ci41293071,"17 km WSW of Johannesburg, CA",35.3161666666667,-117.811666666667,0.98,22.26,44,1009,3.64,Clouds,scattered clouds
+av93064024,"Rat Islands, Aleutian Islands, Alaska",51.9831666666667,178.559166666667,-0.53,7.87,89,1026,3.57,Clouds,few clouds
+nc75395241,"3 km SE of The Geysers, CA",38.757999420166,-122.728500366211,1.19,12.25,59,1012,2.73,Clear,clear sky
+aka2026nuayne,"92 km N of Karluk, Alaska",58.389,-154.688,1.0,5.34,83,1018,0.75,Clouds,overcast clouds
+nc75395231,"3 km SE of Pacifica, CA",37.599666595459,-122.463668823242,1.21,13.16,75,1013,3.58,Clear,clear sky
+ci41293039,"17 km WSW of Johannesburg, CA",35.3156666666667,-117.809833333333,1.55,22.26,44,1009,3.64,Clouds,scattered clouds
+aka2026nuaawj,"5 km E of Sutton-Alpine, Alaska",61.78,-148.654,1.7,8.94,89,1017,1.26,Clouds,overcast clouds
+ci41293023,"4 km N of Frazier Park, CA",34.8575,-118.950333333333,1.1,22.44,33,1009,3.1,Clouds,broken clouds
+us7000t05y,southeast of the Loyalty Islands,-23.0777,171.5441,4.8,21.27,71,1020,10.68,Clouds,few clouds
+hv75001786,"6 km SSW of Pāhala, Hawaii",19.154167175293,-155.50700378418,2.12,24.11,90,1017,4.21,Clouds,broken clouds
+ci10245830,"11 km SSW of Searles Valley, CA",35.6675,-117.429666666667,0.22,33.23,37,1007,2.4,Clouds,few clouds
+ci41292999,"18 km WSW of Johannesburg, CA",35.3081666666667,-117.813333333333,1.13,22.26,44,1009,3.64,Clouds,scattered clouds
+ci41292991,"18 km WSW of Johannesburg, CA",35.2941666666667,-117.806166666667,1.39,21.11,44,1009,3.66,Clouds,scattered clouds
+ci41292983,"18 km WSW of Johannesburg, CA",35.293,-117.807666666667,1.2,21.11,44,1009,3.66,Clouds,scattered clouds
+ci41292975,"17 km WSW of Johannesburg, CA",35.3183333333333,-117.815,0.95,22.26,44,1009,3.64,Clouds,scattered clouds
+uw714048722,"3 km E of Granite Falls, Washington",48.088,-121.917333333333,1.57,14.91,72,1015,0.89,Clouds,scattered clouds
+pr71523808,"68 km N of Cruz Bay, U.S. Virgin Islands",18.947,-64.7318333333333,2.42,27.35,75,1017,8.26,Clouds,overcast clouds
+ci41292967,"16 km SSW of Tehachapi, CA",34.9976666666667,-118.5095,1.1,20.44,42,1010,5.16,Clouds,broken clouds
+ci41292943,"17 km WSW of Johannesburg, CA",35.319,-117.805333333333,1.18,22.26,44,1009,3.64,Clouds,scattered clouds
+ci10245814,"17 km WSW of Johannesburg, CA",35.3001666666667,-117.802666666667,0.86,22.26,44,1009,3.64,Clouds,scattered clouds
+ci41292935,"18 km WSW of Johannesburg, CA",35.2965,-117.806166666667,1.01,22.26,44,1009,3.64,Clouds,scattered clouds
+ci10245878,"18 km WSW of Johannesburg, CA",35.3023333333333,-117.8105,1.14,22.26,44,1009,3.64,Clouds,scattered clouds
+ci41292927,"18 km WSW of Johannesburg, CA",35.2985,-117.805166666667,1.13,22.26,44,1009,3.64,Clouds,scattered clouds
+ci41292919,"19 km WSW of Johannesburg, CA",35.2971666666667,-117.8165,1.99,22.91,44,1009,4.44,Clouds,scattered clouds
+ci41292911,"17 km WSW of Johannesburg, CA",35.317,-117.812666666667,1.13,22.26,44,1009,3.64,Clouds,scattered clouds
+ci41292903,"3 km NW of Hemet, CA",33.7661666666667,-116.9945,0.68,27.91,43,1011,1.79,Clouds,few clouds
+aka2026ntylsq,"27 km W of Ivanof Bay, Alaska",55.858,-159.912,1.5,8.78,97,1017,3.56,Rain,moderate rain
+ci41292895,"19 km NNE of Indio, CA",33.8848333333333,-116.171333333333,2.12,31.8,25,1009,2.25,Clouds,scattered clouds
+aka2026ntydlg,"Rat Islands, Aleutian Islands, Alaska",50.373,177.703,3.7,8.58,91,1026,3.84,Clouds,broken clouds
+ci41292879,"6 km S of Mojave, CA",34.9998333333333,-118.18,1.14,28.77,15,1010,8.7,Clouds,scattered clouds
+ok2026nqbo,"2 km E of Burbank, Oklahoma",36.6985,-96.70066667,0.79,23.21,86,1016,2.92,Clouds,scattered clouds
+ci41292871,"18 km WSW of Johannesburg, CA",35.2961666666667,-117.8085,2.39,22.26,44,1009,3.64,Clouds,scattered clouds
+nn00921621,"25 km WNW of Tonopah, Nevada",38.13,-117.5152,1.89,23.65,28,1009,5.88,Clouds,broken clouds
+av93064009,"76 km WSW of False Pass, Alaska",54.549,-164.470166666667,0.7,8.58,99,1012,2.32,Rain,light rain
+nc75395151,"22 km NW of Petrolia, CA",40.4591674804688,-124.480331420898,2.8,12.87,92,1018,6.5,Clear,clear sky
+ok2026nqav,"4 km SW of Hulbert, Oklahoma",35.9055,-95.17733333,1.5,21.67,93,1017,1.34,Clouds,scattered clouds
+ci41292863,"22 km NNW of Borrego Springs, CA",33.4413333333333,-116.442333333333,1.02,32.21,64,1010,4.91,Clear,clear sky
+ci41292855,"18 km WSW of Johannesburg, CA",35.2945,-117.807333333333,2.58,21.11,44,1009,3.66,Clouds,scattered clouds
+ci41292847,"17 km WSW of Johannesburg, CA",35.3156666666667,-117.809,1.59,22.26,44,1009,3.64,Clouds,scattered clouds
+aka2026ntwzfs,"64 km ENE of Pedro Bay, Alaska",60.056,-153.093,1.6,-1.87,88,1018,2.76,Clouds,broken clouds
+nc75395116,"3 km ENE of The Geysers, CA",38.7900009155273,-122.726997375488,1.62,12.96,59,1013,2.73,Clear,clear sky
+aka2026ntwvfw,"84 km NW of Karluk, Alaska",58.168,-155.338,0.3,2.5,77,1018,0.85,Clouds,overcast clouds
+ci41292839,"5 km SSE of Home Gardens, CA",33.8415,-117.495666666667,1.24,26.28,49,1010,0.87,Clear,clear sky
+tx2026nrrgmi,"44 km NW of Toyah, Texas",31.611,-104.111,2.1,23.04,73,1014,5.66,Clouds,few clouds
+tx2026nrrene,"36 km SSW of Los Ybanez, Texas",32.436,-102.119,1.6,21.21,79,1016,3.31,Clouds,broken clouds
+ci41292831,"18 km WSW of Johannesburg, CA",35.3036666666667,-117.817166666667,1.3,22.91,44,1009,4.44,Clouds,scattered clouds
+us7000t04s,"215 km WNW of Anamizu, Japan",37.8376,134.5791,4.0,26.0,76,1002,1.08,Clouds,scattered clouds
+ci41292823,"10 km N of Coso Junction, CA",36.1298333333333,-117.931,1.02,20.57,42,1012,4.11,Clouds,broken clouds
+aka2026ntwdbj,"30 km NNE of Whittier, Alaska",61.008,-148.407,1.2,5.66,99,1019,1.77,Clouds,overcast clouds
+aka2026ntvzoc,"89 km WSW of Nanwalek, Alaska",58.923,-153.238,1.1,11.07,80,1018,2.95,Clouds,broken clouds
+av94306993,"79 km NW of Ninilchik, Alaska",60.4816666666667,-152.816333333333,-0.84,-0.65,88,1018,2.28,Clouds,broken clouds
+us7000t04b,South Sandwich Islands region,-58.601,-25.0342,4.9,-1.46,86,986,13.97,Clouds,overcast clouds
+us7000t048,"5 km SE of Butulan, Philippines",5.577,125.4626,5.0,28.81,68,1011,3.05,Clouds,scattered clouds
+ci10245838,"20 km NNE of Indio, CA",33.8915,-116.166166666667,0.48,31.18,25,1009,2.25,Clouds,scattered clouds
+ci41292807,"19 km NNE of Indio, CA",33.8856666666667,-116.166666666667,0.62,31.18,25,1009,2.25,Clouds,scattered clouds
+aka2026ntvkyj,"46 km WNW of Nanwalek, Alaska",59.541,-152.658,1.7,10.6,82,1017,4.68,Clouds,scattered clouds
+ci41292799,"15 km SW of Johannesburg, CA",35.2655,-117.733666666667,0.55,20.42,45,1009,3.26,Clouds,scattered clouds
+us7000t044,southeast of the Loyalty Islands,-22.8062,171.5971,4.5,21.23,72,1020,11.28,Clouds,few clouds
+ci41292791,"20 km E of Little Lake, CA",35.9466666666667,-117.679666666667,1.0,23.13,37,1008,2.14,Clouds,scattered clouds
+ci41292783,"17 km WSW of Johannesburg, CA",35.3083333333333,-117.804666666667,0.85,22.26,44,1009,3.64,Clouds,scattered clouds
+us7000t042,southeast of the Loyalty Islands,-22.8424,171.5924,4.7,21.24,72,1020,11.22,Clouds,few clouds
+tx2026nrpndn,"11 km N of Toyah, Texas",31.416,-103.787,1.7,24.0,71,1014,5.2,Clear,clear sky
+hv75001741,"19 km E of Kalaoa, Hawaii",19.7360000610352,-155.796829223633,2.24,15.14,100,1016,1.89,Rain,light rain
+us7000t046,southeast of the Loyalty Islands,-22.8403,171.5259,4.5,21.24,72,1020,11.12,Clear,clear sky
+ci41292767,"17 km WSW of Johannesburg, CA",35.314,-117.8065,1.05,22.26,44,1009,3.64,Clouds,scattered clouds
+ci41292759,"18 km WSW of Johannesburg, CA",35.3125,-117.815166666667,1.06,22.91,44,1009,4.44,Clouds,scattered clouds
+ci41292751,"17 km WSW of Johannesburg, CA",35.3036666666667,-117.806833333333,1.15,22.26,44,1009,3.64,Clouds,scattered clouds
+ci41292743,"17 km WSW of Johannesburg, CA",35.3041666666667,-117.806333333333,2.23,22.26,44,1009,3.64,Clouds,scattered clouds
+ci41292735,"6 km E of Calimesa, CA",33.9888333333333,-116.991833333333,1.08,24.09,49,1011,0.45,Clear,clear sky
+av94306918,"22 km WNW of Ivanof Bay, Alaska",55.9888333333333,-159.812833333333,0.45,4.36,97,1017,3.48,Rain,moderate rain
+nc75395061,"9 km ESE of Cloverdale, CA",38.7596664428711,-122.928337097168,2.15,16.78,60,1012,2.9,Clear,clear sky
+ci41292727,"18 km WSW of Johannesburg, CA",35.3131666666667,-117.819666666667,1.65,22.91,44,1009,4.44,Clouds,scattered clouds
+aka2026ntuczb,"23 km W of Ivanof Bay, Alaska",55.864,-159.854,1.6,8.82,97,1017,3.34,Rain,moderate rain
+ci41292719,"18 km WSW of Johannesburg, CA",35.3083333333333,-117.812333333333,1.1,22.26,44,1009,3.64,Clouds,scattered clouds
+ci41292711,"18 km WSW of Johannesburg, CA",35.303,-117.818833333333,1.11,22.91,44,1009,4.44,Clouds,scattered clouds
+ci10245790,"18 km WSW of Johannesburg, CA",35.2876666666667,-117.802333333333,0.59,21.11,44,1009,3.66,Clouds,scattered clouds
+nc75395056,"11 km NW of The Geysers, CA",38.84716796875,-122.846664428711,1.08,14.37,51,1012,3.04,Clear,clear sky
+ci10245862,"18 km WSW of Johannesburg, CA",35.3003333333333,-117.814166666667,0.77,22.26,44,1009,3.64,Clouds,scattered clouds
+ci41292703,"17 km WSW of Johannesburg, CA",35.302,-117.806666666667,1.25,22.26,44,1009,3.64,Clouds,scattered clouds
+ci10245854,"17 km WSW of Johannesburg, CA",35.313,-117.802666666667,1.18,22.26,44,1009,3.64,Clouds,scattered clouds
+pr71523783,"0 km SW of Guánica, Puerto Rico",17.9678333333333,-66.9116666666667,2.38,25.59,86,1017,2.42,Clouds,scattered clouds
+ci41292695,"17 km WSW of Johannesburg, CA",35.3068333333333,-117.808333333333,1.02,22.26,44,1009,3.64,Clouds,scattered clouds
+ci41292687,"18 km WSW of Johannesburg, CA",35.3121666666667,-117.814833333333,4.31762677888687,22.26,44,1009,3.64,Clouds,scattered clouds
+us7000t02f,southeast of the Loyalty Islands,-22.8289,171.3991,5.1,21.27,72,1020,10.8,Clear,clear sky
+av94306878,"33 km WNW of Dutch Harbor, Alaska",53.9575,-167.032166666667,0.47,8.5,99,1013,2.92,Rain,light rain
+ci41292671,"10 km NE of Running Springs, CA",34.2693333333333,-117.023833333333,1.12,18.42,45,1010,1.41,Clear,clear sky
+ci41292655,"15 km WSW of Searles Valley, CA",35.7336666666667,-117.561166666667,0.4,32.36,24,1007,2.19,Clouds,scattered clouds
+ci41292647,"23 km NNW of Tehachapi, CA",35.3188333333333,-118.556666666667,1.37,27.66,42,1010,2.73,Clouds,overcast clouds
+tx2026nrncew,"31 km W of Fort Stockton, Texas",30.913,-103.203,1.8,21.5,77,1016,3.64,Clear,clear sky
+nc75395021,"7 km WNW of Cobb, CA",38.836498260498,-122.799163818359,0.44,11.55,49,1013,2.84,Clear,clear sky
+nc75395016,"9 km NE of San Simeon, CA",35.6875,-121.109497070312,1.21,16.35,65,1011,1.63,Clear,clear sky
+tx2026nrmcsu,"59 km S of Whites City, New Mexico",31.64,-104.377,1.5,22.49,68,1015,6.26,Clouds,few clouds
+hv75001721,"14 km SE of Pāhala, Hawaii",19.1246662139893,-155.372161865234,1.94,25.26,81,1015,5.31,Clouds,scattered clouds
+av94306803,"86 km NW of Karluk, Alaska",58.1843333333333,-155.334,-0.31,3.33,78,1018,0.85,Clouds,overcast clouds
+tx2026nrlvwy,"32 km W of Fort Stockton, Texas",30.945,-103.219,1.4,23.0,76,1016,3.57,Clear,clear sky
+us7000t01w,southeast of the Loyalty Islands,-22.8636,171.5407,4.7,21.25,72,1020,11.05,Clear,clear sky
+nc75394981,"1 km NW of The Geysers, CA",38.7851676940918,-122.764999389648,0.75,11.64,59,1013,2.82,Clear,clear sky
+av93063994,"73 km WSW of False Pass, Alaska",54.551,-164.427833333333,0.52,8.68,99,1012,2.6,Rain,light rain
+aka2026ntqdge,"83 km NW of Karluk, Alaska",58.159,-155.319,0.4,4.85,77,1018,0.85,Clouds,overcast clouds
+uw714048462,"9 km S of Ellensburg, Washington",46.9103333333333,-120.567166666667,1.27,22.57,50,1012,2.36,Clouds,broken clouds
+av94306728,"10 km SE of Unalaska, Alaska",53.8005,-166.4375,-0.21,9.72,95,1012,2.06,Rain,light rain
+aka2026ntpwjv,"27 km N of Chickaloon, Alaska",62.035,-148.363,1.3,2.41,89,1017,2.1,Clouds,overcast clouds
+us7000t01n,southeast of the Loyalty Islands,-22.7889,171.5199,6.3,21.21,73,1020,11.24,Clouds,few clouds
+us7000t01l,"35 km S of Kazarman, Kyrgyzstan",41.0854,73.9665,4.2,17.33,34,1013,1.73,Clear,clear sky
+aka2026ntpkru,"55 km WNW of Nanwalek, Alaska",59.481,-152.867,2.1,10.66,81,1017,5.37,Clouds,scattered clouds
+tx2026nrkbjv,"18 km SSW of Lindsay, Texas",31.21,-103.592,1.1,23.89,71,1016,4.18,Clear,clear sky
+ci41292583,"2 km ESE of Beaumont, CA",33.9226666666667,-116.953833333333,0.65,26.13,42,1010,0.45,Clouds,few clouds
+nc75394946,"29 km S of Mammoth Lakes, CA",37.3816680908203,-119.016166687012,1.53,11.86,54,1019,1.9,Clouds,scattered clouds
+pr71523738,"0 km WSW of Guánica, Puerto Rico",17.9685,-66.9135,2.46,25.59,86,1017,2.42,Clouds,scattered clouds
+ci41292575,"14 km NE of Ojai, CA",34.5466666666667,-119.155333333333,0.48,20.2,61,1009,3.36,Clouds,broken clouds
+tx2026nrjkrx,"16 km W of Stanton, Texas",32.105,-101.958,1.2,22.49,81,1015,4.34,Clouds,broken clouds
+nc75394936,"7 km W of Petrolia, CA",40.3310012817383,-124.362663269043,2.2,13.15,84,1017,5.64,Clear,clear sky
+ci41292567,"4 km ENE of Llano, CA",34.5115,-117.744333333333,1.15,27.59,33,1010,4.35,Clouds,few clouds
+ci41292559,"5 km ENE of Llano, CA",34.5121666666667,-117.734666666667,0.72,27.4,36,1010,4.35,Clouds,few clouds
+tx2026nriyal,"23 km E of Dilley, Texas",28.689,-98.93,1.6,24.87,90,1016,6.94,Clouds,overcast clouds
+ci41292551,"10 km SSE of Big Bear Lake, CA",34.1551666666667,-116.884,0.88,16.89,51,1011,1.15,Clear,clear sky
+tx2026nriolq,"10 km W of Forsan, Texas",32.123,-101.478,1.0,21.92,83,1014,5.73,Clouds,overcast clouds
+av93063984,"75 km WSW of False Pass, Alaska",54.55,-164.457666666667,0.77,8.56,99,1012,2.4,Rain,light rain
+nc75394921,"3 km NW of The Geysers, CA",38.7938346862793,-122.77783203125,1.14,13.68,59,1012,2.91,Clear,clear sky
+pr71523713,"0 km E of Guánica, Puerto Rico",17.9725,-66.9005,2.51,25.49,86,1017,2.44,Clouds,scattered clouds
+aka2026ntnbzr,"35 km NW of Lake Louise, Alaska",62.526,-146.995,1.8,8.56,80,1015,2.26,Rain,light rain
+hv75001681,"26 km NNW of Pāhala, Hawaii",19.4218330383301,-155.585830688477,1.88,2.38,93,1018,1.0,Rain,light rain
+pr71523698,"2 km W of Indios, Puerto Rico",17.9943333333333,-66.8438333333333,2.29,25.33,85,1017,1.97,Clouds,scattered clouds
+ci41292543,"4 km NNE of Ocotillo Wells, CA",33.1728333333333,-116.117666666667,0.7,24.52,63,1010,3.18,Clear,clear sky
+nc75394916,"7 km WNW of Cobb, CA",38.8358345031738,-122.801170349121,1.26,11.55,49,1013,2.84,Clear,clear sky
+av94306573,"64 km ENE of Pedro Bay, Alaska",60.0563333333333,-153.088,-0.23,-1.87,88,1018,2.76,Clouds,broken clouds
+av93063979,"75 km WNW of Karluk, Alaska",57.9455,-155.515,0.17,10.38,80,1018,1.58,Clouds,overcast clouds
+hv75001676,"4 km SW of Pāhala, Hawaii",19.173999786377,-155.504333496094,2.0,24.1,90,1017,4.11,Clouds,broken clouds
+ci41292535,"17 km WSW of Johannesburg, CA",35.3086666666667,-117.802166666667,1.03,22.26,44,1009,3.64,Clouds,scattered clouds
+uw714048332,"39 km NE of Amboy, Washington",46.2025,-122.1505,0.68,14.06,77,1014,2.14,Clouds,broken clouds
+nn00921605,"26 km SE of Rachel, Nevada",37.4494,-115.5668,1.61,27.96,34,1010,4.68,Clouds,broken clouds
+nc75394901,"5 km NW of The Geysers, CA",38.8144989013672,-122.79133605957,1.54,11.54,50,1013,2.89,Clear,clear sky
+nc75394896,"9 km WNW of Cobb, CA",38.8414993286133,-122.822166442871,1.93,12.92,50,1013,2.92,Clear,clear sky
+av94306523,"74 km NW of Ninilchik, Alaska",60.4721666666667,-152.7185,-0.68,-0.91,87,1018,2.27,Clouds,broken clouds
+pr71523688,"1 km SSW of Guánica, Puerto Rico",17.9613333333333,-66.9123333333333,2.31,25.35,85,1017,2.42,Clouds,scattered clouds
+aka2026ntlaxs,"8 km NNE of Diamond Ridge, Alaska",59.747,-151.528,0.9,9.21,86,1018,2.92,Clouds,broken clouds
+ci41292519,"4 km WSW of Anza, CA",33.5403333333333,-116.7115,0.51,24.7,62,1010,1.08,Clouds,few clouds
+us7000t014,south of the Fiji Islands,-24.1915,-176.3145,4.8,19.25,56,1024,9.58,Clouds,broken clouds
+av94306498,"12 km N of Adak, Alaska",51.9843333333333,-176.66,1.09,8.06,90,1023,5.43,Clouds,scattered clouds

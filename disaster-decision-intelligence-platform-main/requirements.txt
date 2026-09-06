@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+numpy
+requests
+sqlalchemy
+psycopg2-binary
+python-dotenv
+scikit-learn
+xgboost
+lightgbm
+catboost
+joblib
